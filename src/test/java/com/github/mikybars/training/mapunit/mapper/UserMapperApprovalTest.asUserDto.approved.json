@@ -1,0 +1,7 @@
+{
+  "firstName": "Miguel",
+  "genre": "MALE",
+  "balance": {
+    "amount": 100.0
+  }
+}
